@@ -38,13 +38,15 @@ evil is of three kinds — physical, moral, and metaphysical."
     absence of data it is difficult to say whether it should rightly be classed
     with the merely formal evil which belongs to inanimate objects, or with the
     suffering of human beings. The latter view was generally held in ancient
-    times, and may perhaps be referred to the anthropomorphic tendency of
-    primitive minds which appears in the doctrine of metempsychosis. Thus it
-    has often been supposed that animal suffering, together with many of the
-    imperfections of inanimate nature, was due to the fall of man, with whose
-    welfare, as the chief part of creation, were bound up the fortunes of the
-    rest (see Theoph.  Antioch., Ad Autolyc., II; cf. Genesis 3 and 1
-    Corinthians 9).
+    times....  Thus it has often been supposed that animal suffering, together
+    with many of the imperfections of inanimate nature, was due to the fall of
+    man, with whose welfare, as the chief part of creation, were bound up the
+    fortunes of the rest (see Theoph.  Antioch., Ad Autolyc., II; cf. Genesis 3
+    and 1 Corinthians 9)...."
+
+The article suggests that the Church leaves open the question of whether
+metaphysical evil, which includes the death of animals, is the result of the
+disobedience of the first persons.
 
 Negativity
 ----------
@@ -59,4 +61,18 @@ will, upon which moral evil depends, is more than a mere negation of right
 action, implying as it does the positive element of choice; but the morally
 evil character of wrong action is constituted not by the element of choice, but
 by its rejection of what right reason requires."
+
+Principles
+----------
+
+"In the light of Catholic doctrine, any theory that may be held concerning evil
+must include certain points bearing on the question that have been
+authoritatively defined. These points are
+
+ * the omnipotence, omniscience, and absolute goodness of the Creator;
+
+ * the freedom of the will; and
+
+ * that suffering [physical evil] is the penal consequence of wilful
+   disobedience to the law of God."
 
